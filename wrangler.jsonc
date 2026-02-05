@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "layanan-pemulihan999",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "Layanan",
+			"database_id": "c1eb82a0-4f69-494b-93ec-b366c743dd55"
+		}
+	]
+}
